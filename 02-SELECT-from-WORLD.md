@@ -117,18 +117,31 @@ WHERE name LIKE '%a%'
 # quiz
 
 ![](https://i.imgur.com/rGWSuBA.png)
-![](https://i.imgur.com/wSF3Isv.png)
-![](https://i.imgur.com/upYHPOs.png)
-![](https://i.imgur.com/mJQ9t1Z.png)
-![](https://i.imgur.com/mD0uuCi.png)
-![](https://i.imgur.com/VGBKckS.png)
-![](https://i.imgur.com/5W1Zv30.png)
-![](https://i.imgur.com/QVvFcLR.png)
-![](https://i.imgur.com/CJ0v2NZ.png)
-![](https://i.imgur.com/kO8HaNU.png)
-![](https://i.imgur.com/ad7QB6e.png)
-![](https://i.imgur.com/f1lLiMW.png)
-![](https://i.imgur.com/CMXSRQY.png)
-![](https://i.imgur.com/5utRN3Q.png)
-![](https://i.imgur.com/auKwOT1.png)
 
+![](https://i.imgur.com/wSF3Isv.png)
+
+![](https://i.imgur.com/upYHPOs.png)
+
+![](https://i.imgur.com/mJQ9t1Z.png)
+
+![](https://i.imgur.com/mD0uuCi.png)
+
+![](https://i.imgur.com/VGBKckS.png)
+
+![](https://i.imgur.com/5W1Zv30.png)
+
+![](https://i.imgur.com/QVvFcLR.png)
+
+![](https://i.imgur.com/CJ0v2NZ.png)
+
+![](https://i.imgur.com/kO8HaNU.png)
+
+![](https://i.imgur.com/ad7QB6e.png)
+
+![](https://i.imgur.com/f1lLiMW.png)
+
+![](https://i.imgur.com/CMXSRQY.png)
+
+![](https://i.imgur.com/5utRN3Q.png)
+
+![](https://i.imgur.com/auKwOT1.png)

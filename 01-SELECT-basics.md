@@ -26,17 +26,31 @@ WHERE area BETWEEN 200000 AND 250000
 # quiz
 
 ![](https://i.imgur.com/PrnKCXn.png)
+
 ![](https://i.imgur.com/vuYqBiJ.png)
+
 ![](https://i.imgur.com/C5IMfrK.png)
+
 ![](https://i.imgur.com/1A0QliB.png)
+
 ![](https://i.imgur.com/E5BJDH2.png)
+
 ![](https://i.imgur.com/hNpCtO8.png)
+
 ![](https://i.imgur.com/kIjvWlk.png)
+
 ![](https://i.imgur.com/XhgYxvj.png)
+
 ![](https://i.imgur.com/doVMB5N.png)
+
 ![](https://i.imgur.com/WuphmPv.png)
+
 ![](https://i.imgur.com/HOYoiEA.png)
+
 ![](https://i.imgur.com/TdHOXnl.png)
+
 ![](https://i.imgur.com/eMpLabe.png)
+
 ![](https://i.imgur.com/IYJF6rv.png)
+
 ![](https://i.imgur.com/pYHg2cW.png)
