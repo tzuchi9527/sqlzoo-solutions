@@ -1,2 +1,2 @@
-# SQLZOO-solutions
+# sqlzoo-solutions
 My solutions to http://sqlzoo.net/ exercises
